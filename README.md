@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 - COPA </h1>
+<h1 align="center"> RIVERGRAM </h1>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
