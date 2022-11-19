@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Tela de login" src="./webapp/assets/img/login.png" width="100%">
+  <img alt="Tela de login" src="./webapp/assets/login.png" width="100%">
 </p>
 
 <br>
